@@ -1,6 +1,8 @@
 import telebot
 import requests
 import pytz
+import time
+import threading
 from datetime import datetime
 
 # Conexión con el bot
@@ -204,6 +206,18 @@ def partidos_jornada(message):
     mensaje = obtener_partidos_jornada(liga_codigo)
 
     bot.reply_to(message, mensaje)
+
+
+def keep_alive():
+    while True:
+        try:
+            requests.get("https://topleaguesbot.onrender.com")
+            print("Keep-Alive enviado.")
+        except Exception as e:
+            print(f"Error en Keep-Alive: {e}")
+        time.sleep(300)
+
+threading.Thread(target=keep_alive, daemon=True).start()
 
 if __name__ == '__main__':
     bot.polling(none_stop=True)
