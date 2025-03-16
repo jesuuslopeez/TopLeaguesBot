@@ -1,4 +1,5 @@
 # 📢 TopLeaguesBot - Bot de Telegram ⚽🏆
+<img src="assets/logo.jpg" alt="Logo TopLeaguesBot" width="250">
 
 ## 📌 Descripción
 Este bot de Telegram proporciona información sobre partidos, clasificaciones y goleadores de las principales ligas de fútbol.
@@ -109,6 +110,8 @@ Así responde el bot a los siguientes comandos:
 ![Comando /clasificacion](assets/clasificacion.png)
 ### `/goleadores <liga>`:
 ![Comando /goleadores](assets/goleadores.png)
+
+---
 
 ## 📌 **Autor**
 Este bot ha sido desarrollado por [Jesús López](https://github.com/jesuuslopeez).
