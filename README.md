@@ -103,7 +103,7 @@ Así responde el bot a los siguientes comandos:
 ### `/hoy`:
 ![Comando /hoy](assets/hoy.png)
 ### `/hoy <partido>`:
-![Comando /start](assets/hoy liga.png)
+![Comando /start](assets/hoy%20liga.png)
 ### `/jornada <liga>`:
 ![Comando /jornada](assets/jornada.png)
 ### `/clasificacion <liga>`:
