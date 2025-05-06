@@ -1,5 +1,16 @@
-# 📢 TopLeaguesBot - Bot de Telegram ⚽🏆
-<img src="assets/logo.jpg" alt="Logo TopLeaguesBot" width="250">
+# ⚽💬 TopLeaguesBot
+
+<p align="center">
+   <a href="https://github.com/jesuuslopeez/TopLeaguesBot/pulls">
+     <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" height="35" alt="PRS Welcome logo" />
+   </a>
+   <a href="LICENSE" target="_blank">
+     <img src="https://img.shields.io/badge/License-MIT-yellowgreen?style=for-the-badge&logo=opensource&logoColor=white&labelColor=101010" height="35" alt="MIT license logo" />
+   </a>
+   <a href="requeriments.txt" target="_blank">
+     <img src="https://img.shields.io/badge/Requirements-Available-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" height="35" alt="Requirements logo" />
+   </a>
+</p>
 
 ## 📌 Descripción
 Este bot de Telegram proporciona información sobre partidos, clasificaciones y goleadores de las principales ligas de fútbol.
