@@ -7,7 +7,7 @@
    <a href="LICENSE" target="_blank">
      <img src="https://img.shields.io/badge/License-MIT-yellowgreen?style=for-the-badge&logo=opensource&logoColor=white&labelColor=101010" height="25" alt="MIT license logo" />
    </a>
-   <a href="requeriments.txt" target="_blank">
+   <a href="requirements.txt" target="_blank">
      <img src="https://img.shields.io/badge/Requirements-Available-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" height="25" alt="Requirements logo" />
    </a>
 </p>
