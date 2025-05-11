@@ -18,8 +18,6 @@
 > **Important Note:** ⚽📲 _TopLeaguesBot is not intended to replace professional sports analytics platforms or apps._ Instead, it serves as a lightweight, accessible tool for football enthusiasts who want quick updates on top leagues without navigating complex websites or installing dedicated apps. TopLeaguesBot is ideal for casual fans, group chats, or small communities looking to stay informed about scores and standings directly within Telegram.
 
 <p align="center">
-    <a href="https://huggingface.co/spaces/davidlms/aphra">How to try it</a>
-    ·
     <a href="https://github.com/jesuuslopeez/TopLeaguesBot/issues/new?assignees=&labels=bug&projects=&template=bug_report.md&title=%5BBUG%5D">Report Bug</a>
     ·
     <a href="https://github.com/jesuuslopeez/TopLeaguesBot/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.md&title=%5BREQUEST%5D">Request Feature</a>
